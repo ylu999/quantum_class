@@ -1,6 +1,6 @@
-# Universality of classical computation
+### Universality of classical computation
 
-##  Circuits VS Turing machine
+####  Circuits VS Turing machine
 
 1. Circuits are universal for classical computation
 2. Circuits can describe computations which are beyond what a turing machine can do
