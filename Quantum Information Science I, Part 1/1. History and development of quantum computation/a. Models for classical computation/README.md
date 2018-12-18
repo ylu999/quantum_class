@@ -33,12 +33,11 @@ Circuit with 2 pow p*i inputs, outputs
                                         Turing Machine Halts
                                         Turing Machine Does not Halt
 
-#### 
+#### Description of the Circuit
+
 Description of the Circuit should be output of a classical program.
 
 Classical computer input is n(size of circuits), output is quantum circuit of size n, that solves problem for input of size n.
-
-#### Conclusion
 
 #### Circuits VS Turing machine
 
