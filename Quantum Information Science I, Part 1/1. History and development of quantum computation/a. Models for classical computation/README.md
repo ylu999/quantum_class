@@ -1,4 +1,4 @@
-### Universality of classical computation
+### Models for classical computation
 
 #### Classical Computation
 1. Universal: Given any computation that is reasonable, you can solve it on the machine
@@ -30,10 +30,10 @@ But you can solve it with a family with Circuits.
 
 Circuit with 2 pow p*i inputs, outputs 
 
-                                        1 Turing Machine Halts
-                                        2 Turing Machine Does not Halt
+                                        Turing Machine Halts
+                                        Turing Machine Does not Halt
 
-
+#### 
 Description of the Circuit should be output of a classical program.
 
 Classical computer input is n(size of circuits), output is quantum circuit of size n, that solves problem for input of size n.
