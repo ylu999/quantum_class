@@ -28,10 +28,9 @@ Does the Turing machine with program given by P. And input i halt? -> Uncomputab
 
 But you can solve it with a family with Circuits. 
 
-                                        1 Turing Machine Halts
-
 Circuit with 2 pow p*i inputs, outputs 
 
+                                        1 Turing Machine Halts
                                         2 Turing Machine Does not Halt
 
 
