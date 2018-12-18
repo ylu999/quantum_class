@@ -11,7 +11,7 @@ In 1964, Bell proved that no classical explaination for behavior of EPR Pair
 
 In 19**, Aspect showed Bell's prediction is correct
 
-In 1982, Herbert paper "FLASH First" faster than light communication using wired properties of Quantum Mechanics and EPR pairs
+In 1982, Herbert paper "FLASH First"(First Laser-Amplified Superluminal Hookup) faster than light communication using wired properties of Quantum Mechanics and EPR pairs. Unknown quantum states cannot be copied.
 
 In 1982, "No-cloning theorem": A single unknown quantum state cannot be duplicated
 
@@ -27,6 +27,4 @@ In 1993, Simon came up a problem that exponentially faster on a quantum computer
 
 In 1994, Factoring and Discrete log on QC
 
-In 1995, Lov Grover search algorithm, search a space of size n in ![root n](http://latex.codecogs.com/gif.latex?%5Cdpi%7B300%7D%20%5Clarge%20%5E%7B%5Csqrt%7Bn%7D%7D) steps. 
-
-
+In 1995, Lov Grover search algorithm, search a space of size n in ![root n](http://latex.codecogs.com/gif.latex?%5Cdpi%7B300%7D%20%5Clarge%20%5E%7B%5Csqrt%7Bn%7D%7D) steps. -> We are going to do algorithm for this.
