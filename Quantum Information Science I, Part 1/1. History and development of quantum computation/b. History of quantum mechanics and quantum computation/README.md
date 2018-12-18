@@ -1,8 +1,12 @@
 #### Quantum Mechanics 1900 - 1930
 Einstein, Podolski, and Rosen(EPR) 1936 quantum mechanics(QM) is incomplete
+
 Reason: two particles(EPR Pair), 
+
 opposite momenta: -p, p
+
 opposite positions: x, -x
+
 Since Momenta and Position are conjugate variables. You cannot measure the position and the momentum of the same particle.(Something is hidden in this situation) -> Reason for Quantum Mechanics is Incomplete!
 
 Schrodinger replied: These two particles are entangled, that's just the property that entangled particles have.
