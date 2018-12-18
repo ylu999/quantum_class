@@ -15,7 +15,7 @@ In 1982, Herbert paper "FLASH First" faster than light communication using wired
 
 In 1982, "No-cloning theorem": A single unknown quantum state cannot be duplicated
 
-In 1982/1980, Feynman, Manin: Very difficult to simulate QM requires 2 pow n steps for n particles. Quantum Computers would be faster.
+In 1982/1980, Feynman, Manin: Very difficult to simulate QM requires ![2 pow n](http://latex.codecogs.com/gif.latex?%5Cdpi%7B150%7D%20%5Clarge%20%5E%7B2%5E%7Bn%7D%7D) steps for n particles. Quantum Computers would be faster.
 
 In 1985, David Deutsch described QTM, asked is it good for classical computing?
 
