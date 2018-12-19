@@ -28,3 +28,15 @@ Any direction is possible state, but two states are reliably distinguishable if&
 
 
 ![Using_Polarized_Photons_to_Carry_Information](https://github.com/ylu999/quantum_class/blob/master/Quantum%20Information%20Science%20I,%20Part%201/1.%20History%20and%20development%20of%20quantum%20computation/b.%20History%20of%20quantum%20mechanics%20and%20quantum%20computation/Using_Polarized_Photons_to_Carry_Information.png?raw=true)
+
+![Rectilinear](https://github.com/ylu999/quantum_class/blob/master/Quantum%20Information%20Science%20I,%20Part%201/1.%20History%20and%20development%20of%20quantum%20computation/b.%20History%20of%20quantum%20mechanics%20and%20quantum%20computation/Rectilinear.png?raw=true)
+
+Measuring an unknown photon's polarization exactly is impossible(no measurement can yield more than 1 bit about it)
+Cloning an unknown photon is impossible. (If either cloning or measuring were possible the other would be also)
+If you try to amplify an unknown photon by sending it into an ideal laser, the output will be polluted by just enough noise.
+
+#### Entanglement
+It arises naturally during interaction, by virtue of the superposition principle
+
+
+
