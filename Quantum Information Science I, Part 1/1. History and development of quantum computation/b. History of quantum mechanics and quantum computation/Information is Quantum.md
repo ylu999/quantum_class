@@ -16,7 +16,7 @@ i.e. two-state quantum systems such as a photon's polarization or a spin-1/2 ato
 Quantum information processing is reducible to one- and two-qubit gate operations.
 Qubits and quantum gates are fungible among different quantum systems.
 
-The central principle of quantum mechanics is ####the Superposition Principle
+#### Superposition Principle: The central principle of quantum mechanics
 Between any two reliably distinguishable states of a physical system
 (for example vertically and horizontally polarized single photons)
 there are intermediate states(for example diagonal photons) that are not reliably distinguishable from either original state
