@@ -39,4 +39,5 @@ If you try to amplify an unknown photon by sending it into an ideal laser, the o
 It arises naturally during interaction, by virtue of the superposition principle
 ![Entanglement_happens_by_superposition](https://github.com/ylu999/quantum_class/blob/master/Quantum%20Information%20Science%20I,%20Part%201/1.%20History%20and%20development%20of%20quantum%20computation/b.%20History%20of%20quantum%20mechanics%20and%20quantum%20computation/Entanglement_happens_by_superposition.png?raw=true)
 
-
+#### Quantum Teleportation
+![Quantum Teleportation](https://github.com/ylu999/quantum_class/blob/master/Quantum%20Information%20Science%20I,%20Part%201/1.%20History%20and%20development%20of%20quantum%20computation/b.%20History%20of%20quantum%20mechanics%20and%20quantum%20computation/Quantum_Teleportation.png?raw=true)
