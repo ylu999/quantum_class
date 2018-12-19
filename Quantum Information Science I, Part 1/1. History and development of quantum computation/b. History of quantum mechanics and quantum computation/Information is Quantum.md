@@ -27,3 +27,4 @@ but an n-dimensional space where n is the system's maximum number of reliably di
 Any direction is possible state, but two states are reliably distinguishable if&only if their directions are perpendicular
 
 
+[Using_Polarized_Photons_to_Carry_Information](https://github.com/ylu999/quantum_class/blob/master/Quantum%20Information%20Science%20I,%20Part%201/1.%20History%20and%20development%20of%20quantum%20computation/b.%20History%20of%20quantum%20mechanics%20and%20quantum%20computation/Using_Polarized_Photons_to_Carry_Information.png?raw=true)
