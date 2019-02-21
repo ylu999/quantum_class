@@ -1,15 +1,15 @@
-#Physical and conceptual models of classical computation
+# Physical and conceptual models of classical computation
 
-mechanical
-electrical
-optical
-biological
+* mechanical
+* electrical
+* optical
+* biological
 
-Conceptial model
-  Turing machine (probabilistic, universial, and Minsky)
-  Cellular automata
-  Neumann architecture
-  DNA
+## Conceptial model
+  * Turing machine (probabilistic, universial, and Minsky)
+  * Cellular automata
+  * Neumann architecture
+  * DNA
   
   
 Seems like we will reach to the end of silicon computation in this centry.
